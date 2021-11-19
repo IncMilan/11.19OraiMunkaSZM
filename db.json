@@ -1,0 +1,46 @@
+{
+  "konyvek": [
+    {
+      "id": 1,
+      "nev": "Rejtő Jenő",
+      "cim": "az elveszett cirkáló",
+      "ar": 1234,
+      "kategoria": "regény"
+    },
+    {
+      "id": 2,
+      "nev": "Lackfi János",
+      "cim": "Apám kakasa",
+      "ar": 3240,
+      "kategoria": "Vers"
+    },
+    {
+      "id": 3,
+      "nev": "Dragomán György",
+      "cim": "A Fehér király",
+      "ar": 2500,
+      "kategoria": "Fikció"
+    },
+    {
+      "id": 5,
+      "nev": "Erich Kästner",
+      "cim": "A Két lotti",
+      "ar": 4000,
+      "kategoria": "Mese"
+    },
+    {
+      "nev": "József Attila",
+      "cim": "összes versei",
+      "ar": "3270",
+      "kategoria": "vers",
+      "id": 6
+    }
+  ],
+  "szerzo": [
+    {
+      "id": 1,
+      "nev": "Lackfi János",
+      "Szulev": "1987"
+    }
+  ]
+}
